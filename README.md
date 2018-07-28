@@ -428,7 +428,7 @@ CI/CD
 
 Deployer provides webhook feature for triggering project deployment by any webhook service such as Gitlab.
 
-To use webhook, you need add webhook setting into the projects you need in `config.inc.php`:
+To use webhook, you need add webhook setting into the projects you needed in `config.inc.php`:
 
 ```php
 return [
