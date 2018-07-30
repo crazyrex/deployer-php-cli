@@ -14,9 +14,9 @@ FEATURES
 
 - ***Yii2, Laravel, Codeigniter3** Frameworks support*
 
-- ***Git, Composer support** for source project*
+- ***Git, Composer support, tasks** for source project*
 
-- ***Filter** for excluding specified files support*
+- ***CI/CD** solution*
 
 Helping developers to deploy codes from local instance to remote instances.
 
